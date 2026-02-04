@@ -1,7 +1,3 @@
-# linux-basics-notes
-My personal Linux learning notes and commands
-# Linux Basics Notes
-
 This repository contains my personal notes while learning Linux.
 It is focused on practical commands, real usage, and common issues.
 
